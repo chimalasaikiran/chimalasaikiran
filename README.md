@@ -10,7 +10,7 @@
 - 🌱 Currently learning: `Deep Learning`, `NLP for Chatbots`, `Recommendation Systems`
 - 💡 Exploring system design & solving LeetCode problems daily
 - 💼 Targeting roles at top tech companies like **Google**
-- 🧠 Skills: `C++`, `Java`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Firebase`,
+- 🧠 Skills: `C++`, `Java`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Firebase`,`Express.js`,
 
 ---
 
@@ -25,7 +25,6 @@
 
 ### 🛠️ Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
