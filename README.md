@@ -50,18 +50,6 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
-
----
 
 ### 📊 GitHub Stats:
 ![Saikiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimalasaikiranchimalasaikiran&show_icons=true&theme=radical)
