@@ -51,11 +51,6 @@
 ---
 
 
-### 📊 GitHub Stats:
-![Saikiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimalasaikiranchimalasaikiran&show_icons=true&theme=radical)
-
----
-
 ### ⚡ Fun fact:
 I love building smart tools that simplify life and learning!
 
